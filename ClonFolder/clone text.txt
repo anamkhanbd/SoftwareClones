@@ -1,0 +1,1 @@
+-many -workdir ""F:\Clone\1\Telegram2"
